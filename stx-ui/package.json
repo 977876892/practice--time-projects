@@ -29,7 +29,7 @@
     "font-awesome": "^4.7.0",
     "fullcalendar-scheduler": "^1.9.1",
     "jquery": "^3.2.1",
-    "moment": "^2.20.1",
+    "moment": "^2.29.4",
     "mydatepicker": "^2.6.2",
     "ng-multiselect-dropdown": "^0.1.9",
     "ng2-device-detector": "^1.0.0",
